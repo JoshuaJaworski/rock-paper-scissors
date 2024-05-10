@@ -1,0 +1,16 @@
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\finalProject.csproj.AssemblyReference.cache
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\finalProject.AssemblyInfoInputs.cache
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\finalProject.AssemblyInfo.cs
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\finalProject.csproj.CoreCompileInputs.cache
+C:\.School\INFOTC2040\finalProject\bin\Debug\net5.0\finalProject.exe
+C:\.School\INFOTC2040\finalProject\bin\Debug\net5.0\finalProject.deps.json
+C:\.School\INFOTC2040\finalProject\bin\Debug\net5.0\finalProject.runtimeconfig.json
+C:\.School\INFOTC2040\finalProject\bin\Debug\net5.0\finalProject.runtimeconfig.dev.json
+C:\.School\INFOTC2040\finalProject\bin\Debug\net5.0\finalProject.dll
+C:\.School\INFOTC2040\finalProject\bin\Debug\net5.0\finalProject.pdb
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\finalProject.dll
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\ref\finalProject.dll
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\finalProject.pdb
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\finalProject.genruntimeconfig.cache
+C:\.School\INFOTC2040\finalProject\obj\Debug\net5.0\refint\finalProject.dll
